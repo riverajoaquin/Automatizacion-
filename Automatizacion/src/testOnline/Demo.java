@@ -45,7 +45,7 @@ public class Demo {
 
 		}
 
-		// Si existe un problema al escribir cae aqui
+		// Si existe un problema al escribir viene pa aca
 		catch (Exception e) {
 			File archivo1 = new File("textofallo.txt");
 
