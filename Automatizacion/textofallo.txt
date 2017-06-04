@@ -1,0 +1,7 @@
+Cannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN8_1
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'ZIIOX', ip: '192.168.0.9', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_111'
+Driver info: driver.version: FirefoxDriverCannot find firefox binary in PATH. Make sure firefox is installed. OS appears to be: WIN8_1
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'ZIIOX', ip: '192.168.0.9', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_111'
+Driver info: driver.version: FirefoxDriver
